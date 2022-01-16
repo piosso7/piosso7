@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @piosso7 (Piotr Sokołowski)
+- 👀 I’m interested in new technology, space and occasionally photography.
+- 🌱 I’m currently studying Bootstrap.
+- 💞️ I'm looking for a full-time front end developer opportunity.
+- 📫 How to reach me: piosso07@gmail.com
